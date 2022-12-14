@@ -1,0 +1,78 @@
+.grey {
+    display: flex;
+    background-color: lightgrey;
+    color: lightgrey;
+    width: 1000px;
+    height: 1000px;
+  }
+  .yellow {
+    display: flex;
+    border-radius: 1500px;
+    /* height: 60px; */
+    width: 100px;
+    height: 0;
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent;
+    border-right: 40px solid #ffcc33;
+    transform: rotate(-135deg);
+    margin-top: 50px;
+  }
+  .green {
+    display: flex;
+    border-radius: 1500px;
+    /* height: 60px; */
+    width: 80px;
+    height: 0;
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent;
+    border-right: 40px solid #c8e4d2;
+    transform: rotate(135deg);
+    margin-left: -137px;
+    margin-top: 14px;
+  }
+  .blue {
+    display: flex;
+    width: 0;
+    height: 0;
+    border-top: 28px solid transparent;
+    border-bottom: 28px solid transparent;
+    border-right: 28px solid #1294d7;
+    transform: rotate(-45deg);
+    margin-left: -78px;
+    margin-top: 30.5px;
+  }
+  .black {
+    display: flex;
+    width: 0;
+    height: 0;
+    border-top: 28px solid transparent;
+    border-bottom: 28px solid transparent;
+    border-right: 28px solid #262626;
+    transform: rotate(45deg);
+    margin-left: -28px;
+    margin-top: 50px;
+  }
+  .pink {
+    display: flex;
+    width: 0;
+    height: 0;
+    border-top: 28px solid transparent;
+    border-bottom: 28px solid transparent;
+    border-right: 28px solid #ffe0d6;
+    transform: rotate(135deg);
+    margin-top: 10.5px;
+    margin-left: -8.5px;
+  }
+  
+  .red {
+    display: flex;
+    width: 0;
+    height: 0;
+    border-top: 28px solid transparent;
+    border-bottom: 28px solid transparent;
+    border-right: 28px solid #fc441a;
+    transform: rotate(-135deg);
+    margin-top: 70.2px;
+    margin-left: -28px;
+  }
+  
